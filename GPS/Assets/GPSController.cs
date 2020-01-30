@@ -22,9 +22,10 @@ public class GPSController : MonoBehaviour
     void Start()
     {
         StartCoroutine(StartGPS());
+        InvokeRepeating("CustomUpdate", 1, 1);
     }
 
-    void Update()
+    void CustomUpdate()
     {
         DateTime lastUpdate = epoch.AddSeconds(Input.location.lastData.timestamp);
         DateTime rightNow = DateTime.Now;
