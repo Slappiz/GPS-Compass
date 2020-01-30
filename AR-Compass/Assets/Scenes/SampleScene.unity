@@ -506,12 +506,12 @@ PrefabInstance:
     - target: {fileID: 5033595509796090119, guid: 412e77f20d25dee4086c76464c33db04,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 0.000000022494
       objectReference: {fileID: 0}
     - target: {fileID: 5033595509796090119, guid: 412e77f20d25dee4086c76464c33db04,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.28
+      value: 0.132
       objectReference: {fileID: 0}
     - target: {fileID: 5033595509796090119, guid: 412e77f20d25dee4086c76464c33db04,
         type: 3}
@@ -561,17 +561,17 @@ PrefabInstance:
     - target: {fileID: 5033595509796090119, guid: 412e77f20d25dee4086c76464c33db04,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 1
+      value: 0.62261
       objectReference: {fileID: 0}
     - target: {fileID: 5033595509796090119, guid: 412e77f20d25dee4086c76464c33db04,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 1
+      value: 0.62261
       objectReference: {fileID: 0}
     - target: {fileID: 5033595509796090119, guid: 412e77f20d25dee4086c76464c33db04,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 1
+      value: 0.62261
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 412e77f20d25dee4086c76464c33db04, type: 3}
@@ -765,7 +765,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11427236, guid: 5d47068e592f24de68efe2fc00b2e73b, type: 3}
       propertyPath: _targetCollectionResource._targetPath
-      value: Wikitude/tracker (3).wtc
+      value: Wikitude/tracker (4).wtc
       objectReference: {fileID: 0}
     - target: {fileID: 114000012657538596, guid: 5d47068e592f24de68efe2fc00b2e73b,
         type: 3}
