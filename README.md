@@ -1,6 +1,8 @@
 # GPS with AR-Compass for Android
 Unity application for android using the Wiktiude APK for AR and image tracking. 
 
+![App Demo](apk/demo.gif)
+
 ## Install
 
 Install the apk file on your android device (or build from unity project to device), give permission for both location and camera. If this is not asked on start you can add permissions in settings, apps and AR-Compass. A restart of the app is needed. 
