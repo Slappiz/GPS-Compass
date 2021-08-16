@@ -1,5 +1,5 @@
 # GPS with AR-Compass for Android
-Unity application for android using the Wiktiude APK for AR and image tracking. 
+Unity application for android using the Wikitude APK for AR and image tracking. 
 
 ![App Demo](apk/demo.gif)
 
